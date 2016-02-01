@@ -1,0 +1,3 @@
+- We illustrate a data sharing mechanism for scientific publishing
+- Data can be embedded in supporting information files
+- org-mode can be used to include data in human readable, machine addressable formats
