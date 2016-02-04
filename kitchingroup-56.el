@@ -1,4 +1,4 @@
-;;; kitchingroup-56.el --- CaPPA preprint for doi:
+;;; kitchingroup-56.el --- Data Sharing in Surface Science
 
 ;; Copyright (C) 2016 John Kitchin
 
