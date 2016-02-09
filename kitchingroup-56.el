@@ -19,7 +19,7 @@
 ;;                   "http://www.sciencedirect.com/science/article/pii/S0039602815001326",
 ;;   issn =	 "0039-6028",
 ;;   keywords =	 {DESC0004031, early-career, orgmode, Data sharing },
-;; }
+;;   }
 
 ;; TBD
 
